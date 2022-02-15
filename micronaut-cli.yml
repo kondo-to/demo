@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.mitsucaru
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, aws-lambda, aws-lambda-custom-runtime, aws-v2-sdk, graalvm, gradle, graphql, http-client, jackson-databind, java, junit, logback, lombok, micronaut-build, readme, security-annotations, security-jwt, shade, yaml]
